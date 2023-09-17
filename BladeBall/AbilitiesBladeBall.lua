@@ -6,7 +6,7 @@ local ChosenAbility = "Raging Deflection"
 
 local function createGUI()
     local screenGui = Instance.new("ScreenGui")
-    screenGui.Name = "AbilityChooser"
+    screenGui.Name = "Star XYZ Panel"
     screenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
 
     local frame = Instance.new("Frame")
